@@ -1,0 +1,27 @@
+.border {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px 50px 20px 50px;
+    border-radius: 35px;
+    height: 250px;
+    width: 30%;
+    margin-left: 160px;
+    margin-top: 50px;
+    background-color: violet;
+}
+
+#border {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px 50px 20px 50px;
+    border-radius: 35px;
+    height: 250px;
+    width: 30%;
+    background-color: skyblue;
+}
+
+#heading {
+    font-weight: 900;
+    font-size: 2.5em;
+    text-shadow: 5px 5px 5px rgb(0, 255, 229);
+}
