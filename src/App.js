@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import ClassCompo from './Compo/ClassCompo';
-import FuncCompo from './Compo/FuncCompo';
+// import ClassCompo from './Compo/ClassCompo';
+// import FuncCompo from './Compo/FuncCompo';
 import "./Compo/Classstyle.css";
 import PropsCompo from './Compo/PropsCompo';
 

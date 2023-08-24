@@ -4,6 +4,11 @@ import "./Classstyle.css";
 class ClassCompo extends Component {
     constructor(props) {
         super(props)
+        const demo = {
+            names: "Ram",
+            age: 23
+        }
+        console.log(demo)
     }
     render() {
         return (
